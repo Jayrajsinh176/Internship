@@ -1,7 +1,7 @@
 # Full Stack Development Internship
 
 ## Name
-Jayrajsinh j RAvalji
+Jayrajsinh J Ravalji
 
 ## Background
  Fresher
