@@ -1,6 +1,6 @@
 # 3 Moths Internship Daily Report 
 
-## Day 1 Task
+## Day 1 Task(Completed)
 - Install VS Code
 - Install Git
 - Create a GitHub account
@@ -12,3 +12,32 @@
   Your background (student / fresher)
   Why you joined this internship
   What you want to learn in the next 3 months
+
+## Day 2 Task(Completed)
+Task 1: Understand Application Flow
+- What happens when a user submits a form ?
+
+  When a user submits a form, the data they filled in is sent to the system. 
+  The form checks if all required information is entered correctly. 
+  Then the data is processed, and the user gets a response, 
+  such as a success message or an error.
+TAsk 2: MVC vs API 
+-   Write 2 differences.
+ 
+Task 3: Simple Architecture Diagram
+   -   Draw a basic flow:
+      Browser → Backend → Database → Backend → Browser
+
+Task 4: GitHub Update
+- What is MVC : MVC (Model–View–Controller) is a design pattern used to build complete web applications.
+                Model -> stores and manages data (database logic)
+                View → shows the user interface (HTML pages)
+                Controller → handles user requests and connects Model & View
+                MVC is mainly used when **frontend and backend are together.
+
+- What is API : API (Application Programming Interface) is a way for applications to communicate using data.
+                It does not return web pages
+                It returns data (mostly JSON)
+                Used when frontend and backend are separate
+                APIs are mostly used with **React, mobile apps, or other systems.
+
