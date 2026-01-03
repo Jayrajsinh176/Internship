@@ -1,6 +1,6 @@
-DAY 2 TASK
+#DAY 2 TASK
 
-Task 1: Understand Application Flow
+##Task 1: Understand Application Flow
 
 - What happens when a user submits a form ?
 
@@ -9,16 +9,16 @@ Task 1: Understand Application Flow
   Then the data is processed, and the user gets a response, 
   such as a success message or an error.
 
-Task 4:
+##Task 4:
 
-What is MVC?
+- What is MVC?
     MVC (Model–View–Controller) is a design pattern used to build complete web applications.
     Model -> stores and manages data (database logic)
     View → shows the user interface (HTML pages)
     Controller → handles user requests and connects Model & View
     MVC is mainly used when **frontend and backend are together.
 
-What is API?
+-What is API?
     API (Application Programming Interface) is a way for applications to communicate using data.
     It does not return web pages
     It returns data (mostly JSON)
