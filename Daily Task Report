@@ -63,4 +63,33 @@ Understand the purpose of these tags: header
                 Commit message:
                Day 3 – Semantic HTML structure
 
+## Day 4 Task(Completed)
+
+### Task 1:Learn HTML Semantic Tags
+- Learn HTML Structure + Forms : Header, Section, Footer, Form
+                                 Input, Label, Button   
+ 
+### Task 2:Learn CSS Fundamentals
+- Understand: color, background-color
+        font-family, font-size
+        margin, padding, border
+        width, height, text-align
   
+### Task 3 : Build: Complete Static Page
+- Create a webpage with:
+  Header (title + navigation)
+  Main section (about content)
+  Form section (name, email, message)
+  Footer
+- Apply CSS to:
+  Center content
+  Add spacing using margin/padding
+  Set fonts and colors
+  Add borders to sections
+  
+### Task 4 :GitHub Update
+- In your repo:
+    Folder: day4-html-css
+    Files: index.html, style.css
+    Commit message: Day 4 – Complete HTML & CSS page
+      
