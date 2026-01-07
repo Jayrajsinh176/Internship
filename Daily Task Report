@@ -93,3 +93,26 @@ Understand the purpose of these tags: header
     Files: index.html, style.css
     Commit message: Day 4 – Complete HTML & CSS page
       
+## Day 5 Task(Completed)
+
+### Task 1:Learn CSS Core Concepts
+- Box Model : margin, padding, border, width, height
+- Text & Fonts: font-family, font-size, font-weight, text-align
+- Colors & Backgrounds : color, background-color, background-image
+- Layout & Display : display, inline, block, inline-block, margin: auto
+- Responsive Basics : max-width, % vs px
+
+### Task 2:Fully Styled Static Webpage
+- Using your existing HTML:
+- Apply CSS to:
+    Set fonts and colors
+    Add spacing (margin/padding)
+    Use borders & backgrounds
+    Center the main layout
+    Make it readable on smaller screens
+ 
+### Task 3 :GitHub Update
+- In your repo:
+    Folder: day5-complete-css
+    Files: index.html, style.css
+    Commit message: Day 5 – Complete CSS fundamentals 

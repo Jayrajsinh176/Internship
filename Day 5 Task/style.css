@@ -1,0 +1,131 @@
+body {
+    margin: 0px;
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+    grid-area: main;
+}
+
+.header {
+    border-bottom: 5px double black; 
+}
+
+.header h1 {
+    text-align: center;
+    color: green;
+    font-weight: bold;
+    font-size: 36px;
+    margin: 10px 0;
+}
+
+.header nav {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.header nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.header nav a:hover {
+    text-decoration: underline;
+}
+
+.main {
+    padding: 20px;
+    background: url('bg.jpg') no-repeat center center;
+    background-size: auto;
+}
+
+
+.section {
+    margin: auto;
+    padding: 10px;
+    border-radius: 6px;
+    border: 2px solid black;
+    max-width: 40%;;
+    background-color: lightyellow;
+
+}
+
+.section h1 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+
+.section p {
+    font-size: 16px;
+    color: green;
+    font-weight: bold;
+}
+
+.form {
+
+    color: green;
+    letter-spacing: 1px;
+    
+}
+
+.form label {
+    font-style: italic;
+}
+
+.form input {
+    margin-top: 7px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.form textarea {
+    margin-top: 7px;
+    margin-bottom: 5px;
+    width: 100%;
+    height: 100px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+
+.form button {
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 40%;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    border-top: 5px double black;
+    font-weight: bold;
+    color: green;
+}
+
+@media (min-width: 600px) {
+  .header {grid-area: 1 / span 6;}
+  .main {grid-area: 2 / span 1;}
+  .section {grid-area: 2 / span 4;}
+  .form {grid-area: 3 / span 6;}
+  .footer {grid-area: 4 / span 6;}
+}
+
+@media (min-width: 768px) {
+  .header {grid-area: 1 / span 6;}
+  .main {grid-area: 2 / span 1;}
+  .section {grid-area: 2 / span 4;}
+  .form {grid-area: 3 / span 6;}
+  .footer {grid-area: 4 / span 6;}
+}
