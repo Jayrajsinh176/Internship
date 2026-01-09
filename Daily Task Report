@@ -63,6 +63,7 @@ Understand the purpose of these tags: header
                 Commit message:
                Day 3 – Semantic HTML structure
 
+
 ## Day 4 Task(Completed)
 
 ### Task 1:Learn HTML Semantic Tags
@@ -92,7 +93,8 @@ Understand the purpose of these tags: header
     Folder: day4-html-css
     Files: index.html, style.css
     Commit message: Day 4 – Complete HTML & CSS page
-      
+
+
 ## Day 5 Task(Completed)
 
 ### Task 1:Learn CSS Core Concepts
@@ -116,3 +118,36 @@ Understand the purpose of these tags: header
     Folder: day5-complete-css
     Files: index.html, style.css
     Commit message: Day 5 – Complete CSS fundamentals 
+
+## Day 5 Task(Completed)
+
+### Task 1:Learn Flexbox
+- Understand: Display:flex, justify-content, align-items, flex-direction, gap
+
+### Task 2:Learn CSS Grid
+- Understand: Display:grid, grid-template-columns,gap
+
+### Task 3 : Build a responsive card layput
+- Create a layout with 3-4 cards:
+    USe Flexbox or Grid
+    Cards should align properly
+    Layout should adjust on smaller screens
+
+### Task 4 :GitHub Update
+- In your repo:
+    Folder: day6-layouts
+    Files: index.html, style.css
+    Commit message: Day 6 – CSS Flexbox/Grid layout
+
+## Day 5 Task(Completed)
+
+### Task 1 : Upadte Day 6 code with bootstrap CSS
+- Understands:
+  Visit bootstrap side and understand css syntax
+  apply on the Day 6 HTML code
+
+### Task 2 :GitHub Update
+- In your repo:
+    Folder: day7-Bootstarp
+    Files: index.html, style.css
+    Commit message: Day 7 – CSS Flexbox/Grid layout with bootstrap css
