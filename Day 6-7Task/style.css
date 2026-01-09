@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.header {
+    border-bottom: 2px solid black;
+
+}
+
+.header h1 {
+    text-align: center;
+    color: green;
+    font-weight: bold;
+    font-size: 36px;
+    margin: 10px 4px;
+}
+
+.header p{
+    text-align: center;
+    margin-bottom: 10px;
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.container {
+   padding: 20px;
+   width: 90%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    padding: 50px;   
+}
+
+.card {
+    background: #fff;
+    padding: 25px;
+    border-radius: 10px ;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    text-align: left;
+
+}
+
+.card h2 {
+    margin: 15px 0;
+    text-align: center;
+}
+
+.card p {
+    color: #555;
+    margin: 20px;
+    line-height: 1.5;
+}
+
+.icon {
+    font-size: 40px;
+    color: green;
+    text-align: center;
+}
+
+.wide {
+    grid-column: span 1;
+}
+
+.wide h2 {
+    text-align: left;
+}
+
+.wide p {
+    text-align: left;
+    margin-left: 2px;
+}
+
+.btn {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.blue {
+    background: #2b6cb0;
+    margin-left: 35%;
+}
+
+.green {
+    background: #4caf50;
+}
+
+.orange {
+    background: #f57c00;
+    margin-left: 65%;
+}
+
+
+
+@media (max-width: 576px) { 
+    .card-grid {
+        grid-template-columns: 1fr;
+        padding: 20px;
+    }
+
+    .btn.blue {
+        margin-left: 30%;
+    }
+
+    .btn.orange {
+        margin-left: 50%;
+    }
+}
+
+@media (max-width: 768px) {
+    .card-grid {
+        grid-template-columns: 1fr 1fr;
+        padding: 30px;
+    }
+
+    .btn.blue {
+        margin-left: 30%;
+    }
+
+    .btn.orange {
+        margin-left: 50%;
+    }
+ }
+
+
+@media (max-width: 992px) {
+    .card-grid {
+        grid-template-columns: 1fr 1fr;
+        padding: 40px;
+    }
+}
