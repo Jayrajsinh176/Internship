@@ -151,3 +151,14 @@ Understand the purpose of these tags: header
     Folder: day7-Bootstarp
     Files: index.html, style.css
     Commit message: Day 7 – CSS Flexbox/Grid layout with bootstrap css
+
+## Day 7 Task(Completed)
+
+### Task 1 : In Day 6 code apply function l
+- Make Nav Link Responsive
+- Add onclick function in button 
+
+### Task 2 :GitHub Update
+- In your repo:
+    Update Repo with changes
+    Commit message: Day 8 – Upadte Nav link and onclick function
