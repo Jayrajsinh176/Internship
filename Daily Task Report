@@ -161,4 +161,16 @@ Understand the purpose of these tags: header
 ### Task 2 :GitHub Update
 - In your repo:
     Update Repo with changes
-    Commit message: Day 8 – Upadte Nav link and onclick function
+    Commit message: Day 7 – Upadte Nav link and onclick function
+
+## Day 8 Task(Completed)
+
+### Task 1 : Create Student Result Panel using Javascript
+- IN this code Implementing: 
+  Variable & Types, Conditions, Loop, Fuctions, DOM
+- Add onclick function in button 
+
+### Task 2 :GitHub Update
+- In your repo:
+    Update Repo with changes
+    Commit message: Day 8 – Create Student Panel result using Javascript
